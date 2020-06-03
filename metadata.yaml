@@ -1,5 +1,8 @@
 _repo: A-Son-of-Courage_62278
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62278-h/images/img-cover.jpg
 creator:
   author:
     agent_name: McKishnie, Archie P.
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45396
     wikipedia: https://en.wikipedia.org/wiki/Archie_P._McKishnie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62278#A-Son-of-Courage
 gutenberg_issued: '2020-05-29'
 gutenberg_type: Text
 identifiers:
